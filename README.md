@@ -182,12 +182,6 @@ Bagisto is a community-driven project; we appreciate every contribution from the
 
 Please read our [contributing guide](https://github.com/bagisto/bagisto/blob/master/.github/CONTRIBUTING.md) for more info.
 
-#### Backers
-
-Thank you to all our backers! 🙏
-
-<a href="https://opencollective.com/bagisto#contributors" target="_blank"><img src="https://opencollective.com/bagisto/backers.svg?width=890"></a>
-
 #### Sponsors
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
